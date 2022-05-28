@@ -1,0 +1,21 @@
+This is a simple hospital management software. To run it on your premise:
+
+The following are the requirements:
+
+- A windows OS [any]
+-wamp server/xampp server software installed
+
+To run it please import the database file in database-dump folder into your phpmyadmin tool
+the phpmyadmin tool can be accessed by first running your wamp/xammp server then opening your browser link: http://localhost/phpmyadmin
+
+create a database by the name "hossi" then import the "hossi.sql" file into the database.
+The database should have a default username "root" with empty password.
+
+To launch the application, double click on the "hospital_executale.exe" file
+
+Wait for the application to give you an adrress to access it
+, you may also on the same computer open the browser link: http://localhost:9000/
+then use the following credentials to login:
+
+default username: doctor@doctor.com
+password: doctor
